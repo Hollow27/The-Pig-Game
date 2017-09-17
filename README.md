@@ -37,10 +37,10 @@ No known bugs.
 
 # Support and contact details
 
-For comments or questions, please email sampeppard@gmail.com
+For comments or questions, please email zohaibshahzad.to@gmail.com
 
 # Technologies Used
 
 HTML5, CSS3, ES5 JavaScript (Vanilla)
 
-Copyright (c) 2017 Zohaib Shahzad
+Copyright (c) 2017 <b>Zohaib Shahzad</b>
